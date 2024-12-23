@@ -6,14 +6,14 @@ body {
     margin: 0;
     background-color: #46495c;
   }
-  .heading {
+  .form-heading {
     text-align: center;
     font-family: Open Sans;
     font-size: 2rem;
     font-weight: 600;
     color: #46495c;
   }
-  .form-container {
+  .form {
     max-width: 728px;
     max-height: 616.03px; 
     margin: 0 auto;
@@ -31,7 +31,7 @@ body {
   }
 
  
-  .top {
+  .form-label {
     margin-bottom: 5px; 
     font-size:1rem;
     font-family: 'Gothic A1',sans-serif;
@@ -40,7 +40,7 @@ body {
   }
 
  
-  .in {
+  .form-input {
     width: 100%;
     padding: 10px;
     border-radius: 4px;
